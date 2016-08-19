@@ -1,19 +1,4 @@
-name: 'Lonetour '
-favicon: null
-layout_spectrum: 0.6020916081033647
 typography_spectrum: 0.964059861144051
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ff3c00'
@@ -25,4 +10,20 @@ color:
   lightness: 0.5154593582265079
   saturation: 0.020738796796649694
   rhythmicContrast: 0.06535223592072725
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6020916081033647
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: 'Lonetour '
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Lonetour Press
 purpose: []
